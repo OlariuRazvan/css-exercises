@@ -1,0 +1,18 @@
+.odd {
+    background-color: #d92281e3;
+    font-family: 'Veranda',"DejaVu-Sans",sans-serif;
+}
+
+.med-size {
+    font-size: 24px;
+}
+
+#nrtwo {
+   font-size: 36px; 
+   color: blue;
+}
+
+#nrfour {
+    font-weight: bold;
+    background-color: lightgreen;
+}
